@@ -23,4 +23,4 @@ The objective of this case study is to conduct an in-depth analysis of the combi
 - Additionally, we built an interactive Excel dashboard showcasing key metrics, trends, and comparative analyses, enabling data-driven decision-making and providing a comprehensive understanding of business processes across supply chain and web access domains.
 
 # Link for the project :
-## 
+### https://docs.google.com/spreadsheets/d/1hM0Z7NEVZOg8DHW2-3JGOnHKykCrMCcH/edit?usp=sharing&ouid=114284068719867189909&rtpof=true&sd=true
