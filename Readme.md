@@ -81,11 +81,11 @@ This dataset is for understanding user behavior on the website, the popularity o
 
 ## Dashboard Development (This is how our Excel dashboard looks like) :
 
-![Excel_dashboard](https://github.com/AbhayAviSharma/Excel_Data_Analysis/assets/131509148/a9f08b04-4c32-44c6-9f73-3f67702762c3)
+![exl_Dashboard](https://github.com/AbhayAviSharma/Excel_Data_Analysis/assets/131509148/1152a61d-be82-4f61-a9cc-21885c75f672)
 
 ### We can also see the working of interactive elements in our dashboard :
 
-![Excel_dashboard2](https://github.com/AbhayAviSharma/Excel_Data_Analysis/assets/131509148/a1ce559d-c3cc-4d35-b53c-301f45f02ec2)
+![exl_dashboard2](https://github.com/AbhayAviSharma/Excel_Data_Analysis/assets/131509148/354fccfe-f988-491d-bb93-5167601ff2f4)
 
 - In this project, we conducted a thorough data analysis and visualization exercise using Excel, focusing on supply chain management and web access analytics.
 - We addressed missing data, calculated shipping delays and profit margins, analyzed customer demographics and sales trends, identified top-performing products, and assessed user engagement metrics. Utilizing advanced Excel functions and techniques, we developed predictive models for sales, optimized inventory levels dynamically and conducted correlation and risk assessments.
